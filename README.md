@@ -1,5 +1,6 @@
 # Simple Django Login and Registration
 
+Made by Manav Kumar Sinha.
 An example of Django project with basic user functionality.
 
 ## Screenshots
